@@ -1,4 +1,4 @@
-farihan punya
+farihan punya dah ubah kali ni
 /* Activity 3C */
 
 class Act3C  
