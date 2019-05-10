@@ -1,0 +1,11 @@
+/* Activity 3C */
+
+class Act3C  
+{
+    public static void main (string[] args)
+	{  
+	    
+		system.out.println("Hello, my name is Ayuni.");
+		system.out.println("\tI'm from Semporna , Sabah.");
+	}	
+}	
